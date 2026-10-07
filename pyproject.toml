@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mathforkids"
+version = "0.1.0"
+description = "An interactive, kid-friendly Streamlit web application for practicing basic arithmetic."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [
+    { name = "Mohi Uddin Maruf" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "streamlit",
+    "numpy",
+    "pandas",
+]

@@ -1,0 +1,25 @@
+# Python-generated files & cache
+__pycache__/
+*.py[oc]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / Editor configuration (from your workspace)
+.vscode/
+.idea/
+
+# Streamlit secrets & local environment variables
+.env
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
