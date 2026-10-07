@@ -1,17 +1,12 @@
 # 🧮 Math 4 Kids
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
-
 #### An interactive, kid-friendly web application built with **_Streamlit_** that makes learning early arithmetic fun, visual, and intuitive. Designed to help young learners build foundational skills and gain confidence in math.
 
 ---
 
 ## 🌐 Live Demo
 
-Experience the app live in your browser:  
-👉 **[Launch Math 4 Kids](https://your-app-name.streamlit.app)**
-
----
+### [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://math-for-kids-app.streamlit.app/)
 
 ## ✨ Features
 
@@ -27,7 +22,7 @@ Experience the app live in your browser:
 
 ## 🛠️ Tech Stack
 
-- **Language**: Python (>= 3.14)
+- **Language**: Python (>= 3.10)
 - **Web Framework**: [Streamlit](https://streamlit.io/)
 - **Data Processing**: NumPy, Pandas
 
@@ -53,7 +48,7 @@ mathforkids/
 
 ### Prerequisites
 
-Ensure you have Python 3.14+ installed on your system.
+Ensure you have Python 3.10+ installed on your system.
 
 ### Installation
 
@@ -115,4 +110,4 @@ Contributions, bug reports, and feature requests are welcome! Feel free to open 
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for details.
+Distributed under the MIT License. See [LICENSE](LICENSE) for details.

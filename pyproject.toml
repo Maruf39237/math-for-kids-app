@@ -11,9 +11,12 @@ license = { text = "MIT" }
 authors = [
     { name = "Mohi Uddin Maruf" }
 ]
-requires-python = ">=3.14"
+requires-python = ">=3.10"
 dependencies = [
     "streamlit",
     "numpy",
     "pandas",
 ]
+
+[tool.setuptools]
+py-modules = ["main"]
